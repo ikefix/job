@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+import { ColorModeContext } from './scenes/themes';
+import { CssBaseline } from '@mui/material';
 import './App.css';
 
 function App() {
